@@ -1,0 +1,26 @@
+{
+  "name": "BYU",
+  "version": "1.0.0",
+  "description": "*** <strong>What is the problem: * Having to remember to consult multiple apps in the morning before going out is replaced by receiving one concise message with the information which the user desires, daily, at a time of their choosing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "body-parser": "^1.18.3",
+    "connect-session-sequelize": "^5.2.2",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "node-fetch": "^2.2.0",
+    "pg": "^7.6.0",
+    "puretext": "^0.1.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "sequelize": "^4.41.0"
+  }
+}
