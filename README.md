@@ -1,5 +1,7 @@
 # Bring Your umbrella
 #### _An app which sends a phone or email notification at a given time, telling you if you should bring your umbrella to work (e.g., if it is going to rain in your area that day)_
+
+To run: download, install packages and run src/app.js
 ***
 <strong>What is the problem:
 * Having to remember to consult multiple apps in the morning before going out is replaced by receiving one concise message with the information which the user desires, daily, at a time of their choosing.
